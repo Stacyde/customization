@@ -1,0 +1,27 @@
+{
+  "name": "customization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint",
+    "prettier": "prettier"
+  },
+  "devDependencies": {
+    "cypress": "^13.6.2",
+    "eslint": "^7.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stacyde/customization.git"
+  },
+  "author": "\"stacyde <degtich@mail.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stacyde/customization/issues"
+  },
+  "homepage": "https://github.com/Stacyde/customization#readme",
+  "dependencies": {
+    "prettier": "^3.1.1"
+  }
+}
